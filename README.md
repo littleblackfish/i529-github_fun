@@ -6,4 +6,10 @@ fork this repo, add some commits, and submit a pull request!
 
 adding stuff in!
 
+This line added by mu!
+
+**Kate was here**
+
+Is this visible?
+
 This line is added by Haoran.
